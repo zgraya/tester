@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "tester\tester.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count characters in your string", "Count characters in your string\Count characters in your string.csproj", "{E22E15CA-26F0-4F25-957E-D0845BD1C4D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCounting", "BitCounting\BitCounting.csproj", "{38B94151-BF79-4774-BE4C-DF911706B9D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E22E15CA-26F0-4F25-957E-D0845BD1C4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E22E15CA-26F0-4F25-957E-D0845BD1C4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E22E15CA-26F0-4F25-957E-D0845BD1C4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B94151-BF79-4774-BE4C-DF911706B9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B94151-BF79-4774-BE4C-DF911706B9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B94151-BF79-4774-BE4C-DF911706B9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B94151-BF79-4774-BE4C-DF911706B9D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
