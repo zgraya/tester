@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace BITCounting
 {
-    class Program
+    public class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            var result = BitCounting.countBits(12345);
+            Console.WriteLine(result);
+
+            Console.ReadKey();
         }
     }
 }
